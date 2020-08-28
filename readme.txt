@@ -20,8 +20,8 @@ Blog theme
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
-4. Visit https://panther.cheetahthemes.com/panther-help/ for Installation Instructions.
-5. Demo xml file included in "demo" folder of theme zip file. Anyhow, you can download it from https://res.cloudinary.com/sankar/raw/upload/v1569661148/Panther%20Theme/Panther_Demo.zip
+4. Visit https://github.com/SankarSrinivasan1/Panther-WordPress-Blog-Theme for Installation Instructions.
+5. Demo xml file included in "demo" folder of theme zip file. 
 
 == Frequently Asked Questions ==
 
