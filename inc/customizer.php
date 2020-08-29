@@ -166,7 +166,7 @@ function panther_customize_register( $wp_customize ) {
         'carousel_posts',
         array(
             'label'         => __( 'Posts IDs', 'panther' ),
-            'description'   => __( 'Add a comma separated list of post IDs to display in the carousel (e.g. 344,345,932) - See how to find post IDs ', 'panther' ) . '<a href="https://panther.cheetahthemes.com/panther-help/" target="_blank">' . __('here', 'panther') . '</a>',
+            'description'   => __( 'Add a comma separated list of post IDs to display in the carousel (e.g. 344,345,932) - See how to find post IDs ', 'panther' ) . '<a href="https://github.com/SankarSrinivasan1/Panther-WordPress-Blog-Theme/" target="_blank">' . __('here', 'panther') . '</a>',
             'section'       => 'panther_carousel',
             'type'          => 'text',
             'priority'      => 11
@@ -484,7 +484,7 @@ function panther_customize_register( $wp_customize ) {
         array(
             'title' => __('Fonts', 'panther'),
             'priority' => 15,
-            'description'  => __('For help selecting fonts see the <a href="https://panther.cheetahthemes.com/panther-help/" target="_blank">documentation</a>. The font list is here: google.com/fonts', 'panther'),
+            'description'  => __('For help selecting fonts see the <a href="https://github.com/SankarSrinivasan1/Panther-WordPress-Blog-Theme/" target="_blank">documentation</a>. The font list is here: google.com/fonts', 'panther'),
         )
     );
 
