@@ -22,6 +22,8 @@ Full Theme Features:
 •	Well documentation.
 •	And Much More…
 
+[Sankar Srinivasan] (https://sankarsrinivasan.com/)
+
 ![screenshot](/screenshot.png)
 
 
