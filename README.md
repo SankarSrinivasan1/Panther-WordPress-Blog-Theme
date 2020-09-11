@@ -24,6 +24,6 @@ Full Theme Features:
 
 [Sankar Srinivasan] (https://sankarsrinivasan.com/)
 
-![screenshot] (/pantherscreen.png)
+![screenshot] (https://res.cloudinary.com/sankar/image/upload/v1599839638/Panther%20Theme/pantherscreen.png)
 
 
